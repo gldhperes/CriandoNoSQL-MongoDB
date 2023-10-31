@@ -10,7 +10,7 @@
 
 ![Texto alternativo](imgs/3.png)
 
-4 - Digite "" para ver os bancos cadastrados.
+4 - Digite "show databases" para ver os bancos cadastrados.
 
 ![Texto alternativo](imgs/4.png)
 
