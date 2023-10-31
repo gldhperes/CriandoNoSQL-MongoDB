@@ -12,7 +12,7 @@
 Dica: utilize o comando "show databases" para verificar o progresso.
 
 5 - Dentro do prompt do banco, use o comando: "use teste" para criar um banco de dados teste, automaticamente ele irá mudar para este banco. 
-### OBS: Se não houver um banco chamado de teste ele irá cirar um novo e ainda assim ele não criará esse banco, a menos que tenha uma coleção dentro dele, então, vamos criar uma.
+##### OBS: Se não houver um banco chamado de teste ele irá cirar um novo e ainda assim ele não criará esse banco, a menos que tenha uma coleção dentro dele, então, vamos criar uma.
 
 6 - Para criar uma coleção digite: "db.colecao_teste.insertOne({ chave1: "valor1", })" e use o comando "show collections" para verificar se tudo ocorreu bem.
 
