@@ -3,6 +3,7 @@
 1 - Crie uma pasta no diretório C:\ chamada de "data" e dentro dela outra chamada "db", caminho completo: c:\data\db.
 
 2 - Após instalado abra um prompt de comando e digite os comandos: "cd C:\Program Files\MongoDB\Server\5.0\bin" e "mongod --dbpath c:\data\db" e aguarde sua execução.
+![Texto alternativo](imgs/2.png)
 
 3 - Digite o comnando: "mongo" para entrar dentro do prompt do próprio mongo.
 
